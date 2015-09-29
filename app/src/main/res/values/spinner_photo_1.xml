@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinner_photo_1">
+        <item>请假条</item>
+        <item>报销单</item>
+
+    </string-array>
+
+
+</resources>
